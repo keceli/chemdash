@@ -1,0 +1,28 @@
+name: chemdash
+
+channels:
+  - openbabel
+  - mcs07
+  - rpmuller
+  - pyscf
+  - psi4
+
+dependencies:
+  - python=2.7
+  - pip
+  - jupyter
+  - nb_conda
+  - ipykernel 
+  - psutil
+  - numpy
+  - matplotlib
+  - openbabel
+  - cirpy
+  - pyquante2
+  - pyscf
+  - psi4
+  - pip:
+    - py3Dmol
+    - ase
+    
+
