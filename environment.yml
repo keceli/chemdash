@@ -2,21 +2,25 @@ name: chemdash
 
 channels:
   - openbabel
-  - mcs07
   - rpmuller
   - pyscf
   - psi4
+  - rdkit
 
 dependencies:
-  - python=2.7
+  - python=3.6
   - pip
   - jupyter
   - nb_conda
   - ipykernel 
   - psutil
   - numpy
+  - scipy
+  - pandas
+  - scikit-learn
   - matplotlib
   - openbabel
+  - rdkit
   - cirpy
   - pyquante2
   - pyscf
