@@ -2,7 +2,7 @@ name: chemdash
 
 channels:
   - openbabel
-  - rpmuller
+#  - rpmuller
   - pyscf
   - psi4
   - rdkit
