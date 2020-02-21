@@ -21,7 +21,7 @@ dependencies:
   - matplotlib
   - openbabel
   - rdkit
-  - cirpy
+# - cirpy
   - pyquante2
   - pyscf
   - psi4
