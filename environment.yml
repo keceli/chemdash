@@ -8,7 +8,7 @@ channels:
   - rdkit
 
 dependencies:
-  - python=3.6
+  - python=3
   - pip
   - jupyter
   - nb_conda
@@ -28,5 +28,8 @@ dependencies:
   - pip:
     - py3Dmol
     - ase
+    - torch
+    - torchvision
+    - torchani
     
 
