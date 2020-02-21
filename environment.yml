@@ -22,7 +22,7 @@ dependencies:
   - openbabel
   - rdkit
 # - cirpy
-  - pyquante2
+# - pyquante2
   - pyscf
   - psi4
   - pip:
